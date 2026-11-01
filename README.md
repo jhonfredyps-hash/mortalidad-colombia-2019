@@ -1,16 +1,14 @@
 # Mortalidad en Colombia 2019 – Aplicación web interactiva con Dash
 
-**Actividad 4 – Aplicación web interactiva para el análisis de mortalidad en Colombia (grupal)**
+**Actividad 4 – Aplicación web interactiva para el análisis de mortalidad en Colombia**
 Maestría en Inteligencia Artificial
 
 **Integrantes:**
-- _Nombre completo integrante 1_
-- _Nombre completo integrante 2_
-- _Nombre completo integrante 3_
-- _Nombre completo integrante 4_
+- Jhon Fredy Pardo Salazar
 
-**Aplicación desplegada:** _https://TU-APP.onrender.com_
-**Repositorio:** _https://github.com/TU-USUARIO/mortalidad-colombia-2019_
+
+**Aplicación desplegada:** [https://TU-APP.onrender.com_](https://mortalidad-colombia-2019-66i2.onrender.com/)
+**Repositorio:** https://github.com/jhonfredyps-hash/mortalidad-colombia-2019)
 
 ---
 
