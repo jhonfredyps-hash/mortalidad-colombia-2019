@@ -7,7 +7,7 @@ Maestría en Inteligencia Artificial
 - Jhon Fredy Pardo Salazar
 
 
-**Aplicación desplegada:** [https://TU-APP.onrender.com_](https://mortalidad-colombia-2019-66i2.onrender.com/)
+**Aplicación desplegada:** (https://mortalidad-colombia-2019-66i2.onrender.com/)
 **Repositorio:** https://github.com/jhonfredyps-hash/mortalidad-colombia-2019)
 
 ---
